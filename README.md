@@ -1,2 +1,2 @@
 # zephroid.byd
-inspired by arkaneonline
+coding can cure my boredom especially on the weekends
